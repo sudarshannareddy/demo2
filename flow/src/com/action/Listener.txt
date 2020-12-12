@@ -2,3 +2,4 @@ Authenticator
 TokenValidator
 UserNamePasswordValidator
 ClientTokenValidator
+UserNameConverter
