@@ -1,3 +1,4 @@
 Authenticator
 TokenValidator
+UserNamePasswordValidator
 ClientTokenValidator
