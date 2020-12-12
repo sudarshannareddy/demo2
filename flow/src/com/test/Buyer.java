@@ -4,4 +4,6 @@ public class Buyer {
     return new Buyer();
   }
   
+  public void delivery() {
+  }
 }
